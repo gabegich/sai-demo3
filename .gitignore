@@ -1,0 +1,20 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+.directory
+
+# Editors
+*.swp
+*~
+.vscode/
+.idea/
+
+# Temp / source files we don't need on GitHub
+/originals/
+/scratch/
+*.tmp
+
+# Optional: skip the .1 PNG variants that aren't referenced
+Donate-Hero-Frame*.1.png
+Donate-Hero-Frame*.1.webp
